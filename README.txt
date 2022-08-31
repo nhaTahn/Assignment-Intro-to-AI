@@ -1,3 +1,4 @@
+Use python to learn some func and UI with pygame
 - Required pygame, win32api, numpy
 - Run file main.py to run the solver 
 Ex: python -u "c:\Users\Asus\Desktop\Book\212\intro AI\UIforAss\pygame\introAI\main.py"
